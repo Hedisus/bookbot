@@ -1,2 +1,2 @@
 # bookbot
-Book details tool for personal project from a guided lesson
+BookBot is my first project! (from Boot.dev)
